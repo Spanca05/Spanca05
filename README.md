@@ -13,6 +13,10 @@ I enjoy building software end to end, from data and backend logic to the interfa
 | [LBAW-Konnekt](https://github.com/Spanca05/LBAW-Konnekt) | Job recruitment platform with real-time messaging, applications and admin tools | Laravel · PostgreSQL · Docker |
 | [Ecliptica](https://github.com/Spanca05/Ecliptica) | Arcade game in Java built with design patterns, JUnit tests, coverage and mutation testing | Java · JUnit · Gradle |
 | [Memory2Care](https://github.com/Spanca05/Memory2Care) | Augmented-reality app for medication reminders for oncology patients | Flutter · Dart |
+| [LCOM-Text-Editor](https://github.com/Spanca05/LCOM-Text-Editor) | Text editor on Minix built on interrupt-driven device drivers (timer, keyboard, mouse, video card) | C · Minix |
+| [RCOM_Project1](https://github.com/Spanca05/RCOM_Project1) | File transfer over a serial port with a Stop-and-Wait data-link protocol | C · RS-232 |
+| [Compilers](https://github.com/Spanca05/Compilers) | Compiler for a Java subset: semantic analysis, intermediate code, optimisations and JVM bytecode | Java · ANTLR |
+| [CG](https://github.com/Spanca05/CG) | WebGL farm scene with procedural terrain, custom shaders and a drivable wagon | JavaScript · WebGL |
 
 ## Tech
 

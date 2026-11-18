@@ -1,4 +1,4 @@
-# Hi, I'm Vasco Vieira 👋
+# Vasco Vieira
 
 MSc student in **Computer Science and Engineering** at **DTU** (Technical University of Denmark), with a BSc in Informatics and Computing Engineering from **FEUP** (University of Porto). Based in Lyngby, Denmark.
 
